@@ -1,0 +1,20 @@
+streamlit
+numpy
+pandas
+plotly
+folium
+streamlit_folium
+pygeodesy
+scipy
+plotly.express
+scikit-learn 
+pip
+pygeodesy
+ephem
+matplotlib
+pyephem
+astropy
+geopy
+pyproj
+# pip3 install -U scikit-learn scipy matplotli
+# pip install -r requirements.txt
